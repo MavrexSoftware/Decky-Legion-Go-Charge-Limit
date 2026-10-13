@@ -1,0 +1,6 @@
+{
+  "name": "legion-go-charge-limit",
+  "version": "0.2.1",
+  "description": "Toggle the Lenovo Legion Go (1st gen) 80% battery charge limit via ACPI.",
+  "license": "GPL-3.0-or-later"
+}

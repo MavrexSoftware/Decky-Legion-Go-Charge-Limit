@@ -1,0 +1,10 @@
+{
+  "name": "Legion Go Charge Limit",
+  "author": "you",
+  "flags": ["root", "_root"],
+  "publish": {
+    "tags": ["utility", "battery"],
+    "description": "Toggle the Legion Go's firmware 80% battery charge limit.",
+    "image": ""
+  }
+}
